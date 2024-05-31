@@ -21,7 +21,3 @@ To use the model for detecting and classifying diseases in peanut plants, follow
 1. Load the pretrained model NASNetMobile.
 2. Preprocess input images to match the format expected by the model.
 3. Use the model to predict the class of the disease and identify regions of interest (ROI) in the input images.
-
----
-
-Feel free to further customize the content as per your project specifics.
